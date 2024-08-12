@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&display=swap')
+
+
+;* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Lekton", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+:root {
+  /* --background-color: hsl(97, 31%, 45%);
+  --text-color: #ffffff;
+  --text-hover-color: var(--accent-color);
+
+  --card-color:rgb(31, 31, 31);
+  --card-bg-color:hsl(0, 0%, 100%);
+
+  --back: var(--accent-color);
+  --back-hover: var(--accent-hover);
+
+  --accent-color:hsl(39, 100%, 56%);
+  --accent-hover:hsl(39, 88%, 64%);
+
+  --cart-bg-color:var(--card-color);
+  --cart-color:var(--card-bg-color); */
+
+
+
+
+  --background-color: hsl(33, 44%, 95%);
+  --text-color: #2b2b2b;
+  --text-hover-color: var(--accent-color);
+
+  --card-color:rgb(37, 37, 37);
+  --card-bg-color:hsl(0, 0%, 100%);
+
+  --back: var(--accent-color);
+  --back-hover: var(--accent-hover);
+
+  --accent-color:hsl(41, 98%, 54%);
+  --accent-hover:hsl(41, 100%, 63%);
+
+  --cart-bg-color:var(--card-color);
+  --cart-color:var(--card-bg-color); 
+}
+
