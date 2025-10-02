@@ -1,8 +1,5 @@
 # WEB TECHNOLOGIES FINAL PROJECT
 
-I have completed the following requirements:
-
-    1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
 
 # How to run:
 For the backend, open terminal and run:
@@ -23,3 +20,22 @@ For the frontend, open another terminal window and run:
     npm run dev
 ```
 navigate to localhost:3000
+
+# Requirements implemented
+
+- [x] Project folder 
+- [x] Backend
+- [x] Frontend
+- [x] Automatic database population 
+- [x] Browse 
+- [x] Search
+- [x] Create account
+- [x] Login 
+- [x] Add item
+- [x] Add to cart 
+- [x] Remove from cart 
+- [x] Pay 
+- [x] Routing
+- [x] Edit account
+- [x] Display inventory 
+- [x] Edit item 
