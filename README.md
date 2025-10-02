@@ -1,7 +1,4 @@
 # WEB TECHNOLOGIES FINAL PROJECT
- Name: Anton Winquist
- 
- Email: anton.winquist@abo.fi
 
 I have completed the following requirements:
 
