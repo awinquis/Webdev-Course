@@ -38,4 +38,10 @@ navigate to localhost:3000
 - [x] Routing
 - [x] Edit account
 - [x] Display inventory 
-- [x] Edit item 
+- [x] Edit item
+
+
+---
+Preview
+<br>
+<img style="width:50%" src=webtech.png></img>
